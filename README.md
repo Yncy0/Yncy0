@@ -20,3 +20,5 @@
 ![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-white?style=for-the-badge&logo=jetpackcompose&logoColor=white&color=%234285F4)
 ![Static Badge](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=white&color=%2302569B)
 ![Static Badge](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
+![Static Badge](https://img.shields.io/badge/WSL-black?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)
+![Static Badge](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white&color=%23E95420)
