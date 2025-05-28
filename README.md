@@ -4,6 +4,7 @@
 
 ## 🖥️ Tech Stack & Tools
 
+![Static Badge](https://img.shields.io/badge/Godot-black?style=for-the-badge&logo=godotengine&logoColor=white&color=%23478CBF)
 ![Static Badge](https://img.shields.io/badge/Vue-white?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D)
 ![Static Badge](https://img.shields.io/badge/Nuxt-white?style=for-the-badge&logo=nuxt&logoColor=white&color=%2300DC82)
 ![Static Badge](https://img.shields.io/badge/TailwindV4-white?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4)
