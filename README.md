@@ -2,7 +2,7 @@
 
 <br>
 
-## 🖥️ Tech Stack 🖥️
+## 🖥️ Tech Stack & Tools
 
 ![Static Badge](https://img.shields.io/badge/Vue-white?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%234FC08D)
 ![Static Badge](https://img.shields.io/badge/Nuxt-white?style=for-the-badge&logo=nuxt&logoColor=white&color=%2300DC82)
